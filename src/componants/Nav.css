@@ -1,0 +1,35 @@
+.logo {
+  width: 55px;
+  height: 55px;
+  margin: 12px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  margin-top: 26px;
+  margin-right: 22px;
+}
+
+.link {
+  margin: 0px 5px;
+}
+
+.link:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.primary-link {
+  font-size: 18px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.primary-link:hover {
+  background-color: rgb(255, 216, 222);
+}
